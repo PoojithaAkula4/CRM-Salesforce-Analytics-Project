@@ -104,7 +104,6 @@ Contains user data like their roles, active status, and locations.
 - In Short: I used Excel to perform ETL; SQL to find the specified project KPIs; Tableau and Power BI to identify the KPIs, perform some EDA, and visualize the data.
 
 ## Overall Project Analysis
-
 Opportunity:
 
 - ✅ Pipeline Status: There are currently a fair no. of opportunities, though more are required.
@@ -130,7 +129,6 @@ Lead:
 - 🎯 Lead Creation Vs Conversion: Leads created and converted are increasing every year, though more focus is required in the conversion area.
 
 ## Conclusion:
-
 There is a strong base of leads and opportunities, but the gaps in conversion, pipeline forecasting, and data quality are holding back performance. By improving lead management, marketing, expansion, sales execution, and CRM routine, the organization can:
 
 - Increase win and conversion rates.
