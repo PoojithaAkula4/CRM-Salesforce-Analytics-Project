@@ -21,11 +21,7 @@ Opportunities KPIs:
 - Conversion Rate
 - Win Rate
 - Loss Rate
-- Trend Analysis of:
-  Expected Vs Forecast
-  Active Vs Total Opportunities
-  Closed Won Vs Total Opportunities
-  Closed Won Vs Total Closed Opportunities
+- Trend Analysis of: Expected Vs Forecast, Active Vs Total Opportunities, Closed Won Vs Total Opportunities, Closed Won Vs Total Closed Opportunities
 - Expected Amount by Opportunity Type
 - Opportunities by Industry
 
@@ -107,7 +103,7 @@ Contains user data like their roles, active status, and locations.
 
 - In Short: I used Excel to perform ETL; SQL to find the specified project KPIs; Tableau and Power BI to identify the KPIs, perform some EDA, and visualize the data.
 
-Overall Project Analysis
+## Overall Project Analysis
 
 Opportunity:
 
@@ -133,7 +129,7 @@ Lead:
 - 🧭 Lead Industries: Some industries are significantly contributing more leads whereas others are overly underutilized, indicating more expansion here as well.
 - 🎯 Lead Creation Vs Conversion: Leads created and converted are increasing every year, though more focus is required in the conversion area.
 
-Conclusion:
+## Conclusion:
 
 There is a strong base of leads and opportunities, but the gaps in conversion, pipeline forecasting, and data quality are holding back performance. By improving lead management, marketing, expansion, sales execution, and CRM routine, the organization can:
 
