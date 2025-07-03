@@ -9,7 +9,7 @@ This project provides a complete end-to-end data analytics workflow for CRM (Sal
 ## Project Objectives
 - Export, transform, and load the data (ETL).
 - Create a data model.
-- Identify the key performance indicators/metrics (KPIs).
+- Find the key performance indicators/metrics (KPIs).
 - Perform the exploratory data analysis (EDA).
 - Visualization.
 
@@ -87,21 +87,21 @@ Contains user data like their roles, active status, and locations.
 ![Project SQL 7](https://github.com/user-attachments/assets/d2dadc73-a642-43af-a63c-79980383e8a4)
 ![Project SQL 8](https://github.com/user-attachments/assets/b3fef9a0-d00b-4c38-82b8-881ff7807bd9)
 
-- In Tableau: Did the data blending with the cleaned datasets, added certain calculated fields, identified the KPIs, performed some EDA, and made a dashboard.
+- In Tableau: Did the data blending with the cleaned datasets, added certain calculated fields, found the KPIs, performed some EDA, and made a dashboard.
 
 ![Project Tableau Dashboard](https://github.com/user-attachments/assets/f6954b2b-0004-4236-9702-de16b5b64fa7)
 ![Project Tableau Dashboard 2](https://github.com/user-attachments/assets/0515f325-7fa3-4854-a0fd-8c82a3b41310)
 ![Project Tableau Dashboard 3](https://github.com/user-attachments/assets/8c3b7e1b-0bcc-477d-9f49-99e054ccfa18)
 ![Project Tableau Dashboard 4](https://github.com/user-attachments/assets/5e47aa5e-9992-486e-853c-f92cb18eaa8d)
 
-- In Power BI: Done the data modeling between the cleaned datasets, added required DAX measures, identified the KPIs, performed some EDA, and made a dashboard.
+- In Power BI: Done the data modeling between the cleaned datasets, added required DAX measures, found the KPIs, performed some EDA, and made a dashboard.
 
 ![Project Power BI Dashboard](https://github.com/user-attachments/assets/67c205a4-88a8-484c-a545-444d161560ab)
 ![Project Power BI Dashboard 2](https://github.com/user-attachments/assets/fb67d4b5-aa37-4149-9024-29e000c36ed2)
 ![Project Power BI Dashboard 3](https://github.com/user-attachments/assets/16203792-592c-4a64-b536-f9f09ecb5390)
 ![Project Power BI Dashboard 4](https://github.com/user-attachments/assets/8507b9f8-6598-4786-b9b7-363848fca2a4)
 
-- In Short: I used Excel to perform ETL; SQL to find the specified project KPIs; Tableau and Power BI to identify the KPIs, perform some EDA, and visualize the data.
+- In Short: I used Excel to perform ETL; SQL to find the specified project KPIs; Tableau and Power BI to find the KPIs, perform some EDA, and visualize the data.
 
 ## Overall Project Analysis
 Opportunity:
