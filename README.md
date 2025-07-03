@@ -16,25 +16,25 @@ This project provides a complete end-to-end data analytics workflow for CRM (Sal
 ## Project KPIs To Find
 Opportunities KPIs: 
 
-- Total Expected Amount
-- Active/Open Opportunities
-- Conversion Rate
-- Win Rate
-- Loss Rate
-- Trend Analysis of: Expected Vs Forecast, Active Vs Total Opportunities, Closed Won Vs Total Opportunities, Closed Won Vs Total Closed Opportunities
-- Expected Amount by Opportunity Type
-- Opportunities by Industry
+- Total Expected Amount.
+- Active/Open Opportunities.
+- Conversion Rate.
+- Win Rate.
+- Loss Rate.
+- Trend Analysis of: Expected Vs Forecast, Active Vs Total Opportunities, Closed Won Vs Total Opportunities, Closed Won Vs Total Closed Opportunities.
+- Expected Amount by Opportunity Type.
+- Opportunities by Industry.
 
 Lead KPIs: 
 
-- Total Leads
-- Expected Amount from Converted Leads 
-- Lead Conversion Rate
-- Converted Accounts
-- Converted Opportunities
-- Lead By Source
-- Lead By Industry
-- Lead by Stage/Status
+- Total Leads.
+- Expected Amount from Converted Leads. 
+- Lead Conversion Rate.
+- Converted Accounts.
+- Converted Opportunities.
+- Lead By Source.
+- Lead By Industry.
+- Lead by Stage/Status.
 
 ## About The Datasets
 Total 5 Datasets:
