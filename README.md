@@ -111,27 +111,27 @@ Overall Project Analysis
 
 Opportunity:
 
-✅ Pipeline Status: There are currently a fair no. of opportunities, though more are required.
-💰 Revenue Growth: The expected deal revenue is mostly aligned with the targets.
-🏆 Performance Rates: The win rate is decent, though the loss rate needs to go down.
-📦 Opportunity Types: A few specific opportunity types control the expected revenue.
-🏭 Industry Focus: A few industries are driving the most deals, indicating more expansion.
-🌍 Geographic Spread: Key countries are driving the expected revenue.
-📈 Forecast Vs Expected Revenues: Forecast and expected revenues peaked from 2020 to 2021 but then dropped, indicating potential over forecast or less opportunity creation.
-🟢 Total Vs Active Opportunities: Total and active deals peaked from 2019 to 2021 but then dropped, indicating pipeline shortcomings.
-📊 Total Vs Closed Won Opportunities: Total and won deals dropped after 2021 with fewer to no wins, indicating sales execution gaps.
-🎯 Total Closed Vs Closed Won Opportunities: Total closed and won deals dropped after 2020 with fewer to no wins, indicating sales execution gaps again.
-🥇 Top Deals: A few large opportunities are the higher priority right now.
+- ✅ Pipeline Status: There are currently a fair no. of opportunities, though more are required.
+- 💰 Revenue Growth: The expected deal revenue is mostly aligned with the targets.
+- 🏆 Performance Rates: The win rate is decent, though the loss rate needs to go down.
+- 📦 Opportunity Types: A few specific opportunity types control the expected revenue.
+- 🏭 Industry Focus: A few industries are driving the most deals, indicating more expansion.
+- 🌍 Geographic Spread: Key countries are driving the expected revenue.
+- 📈 Forecast Vs Expected Revenues: Forecast and expected revenues peaked from 2020 to 2021 but then dropped, indicating potential over forecast or less opportunity creation.
+- 🟢 Total Vs Active Opportunities: Total and active deals peaked from 2019 to 2021 but then dropped, indicating pipeline shortcomings.
+- 📊 Total Vs Closed Won Opportunities: Total and won deals dropped after 2021 with fewer to no wins, indicating sales execution gaps.
+- 🎯 Total Closed Vs Closed Won Opportunities: Total closed and won deals dropped after 2020 with fewer to no wins, indicating sales execution gaps again.
+- 🥇 Top Deals: A few large opportunities are the higher priority right now.
 
 Lead:
 
-🔢 Lead Volume: There are currently a fair no. of leads, though more are required here as well. 
-🔄 Conversion Rate: Around 10.16% of leads are converting into opportunities or accounts/customers.
-💰 Revenue Growth: The expected deal revenue from the leads is mostly aligned with the targets here as well.
-📣 Lead Sources: Most leads are coming from just a few sources.
-📉 Lead Funnel: This shows how leads are flowing through the process and where we are losing them. There is a significant drop-off from the nurturing to the qualification stage/status. 
-🧭 Lead Industries: Some industries are significantly contributing more leads whereas others are overly underutilized, indicating more expansion here as well. 
-🎯 Lead Creation Vs Conversion: Leads created and converted are increasing every year, though more focus is required in the conversion area.
+- 🔢 Lead Volume: There are currently a fair no. of leads, though more are required here as well.
+- 🔄 Conversion Rate: Around 10.16% of leads are converting into opportunities or accounts/customers.
+- 💰 Revenue Growth: The expected deal revenue from the leads is mostly aligned with the targets here as well.
+- 📣 Lead Sources: Most leads are coming from just a few sources.
+- 📉 Lead Funnel: This shows how leads are flowing through the process and where we are losing them. There is a significant drop-off from the nurturing to the qualification stage/status.
+- 🧭 Lead Industries: Some industries are significantly contributing more leads whereas others are overly underutilized, indicating more expansion here as well.
+- 🎯 Lead Creation Vs Conversion: Leads created and converted are increasing every year, though more focus is required in the conversion area.
 
 Conclusion:
 
