@@ -39,16 +39,11 @@ Lead KPIs:
 ## About The Datasets
 Total 5 Datasets:
 
-- Account: 3,052 rows x 58 columns
-Contains company data like account type, rating, billing information, industry, and revenue.
-- Lead: 10,000 rows x 93 columns
-Contains lead data like conversion status, city, lead score, campaign details, and source.
-- Opportunity: 4,646 rows x 88 columns
-Contains sales opportunity data like account ID, close date, amount, status (won/lost), and probability.
-- Opportunity Product: 10,000 rows x 23 columns
-Contains product-level data tied to opportunities like sales price, product ID, quantity, and total price.
-- User: 98 rows x 143 columns
-Contains user data like their roles, active status, and locations.
+- Account: 3,052 rows x 58 columns. It contains company data like account type, rating, billing information, industry, and revenue.
+- Lead: 10,000 rows x 93 columns. It contains lead data like conversion status, city, lead score, campaign details, and source.
+- Opportunity: 4,646 rows x 88 columns. It contains sales opportunity data like account ID, close date, amount, status (won/lost), and probability.
+- Opportunity Product: 10,000 rows x 23 columns. It contains product-level data tied to opportunities like sales price, product ID, quantity, and total price.
+- User: 98 rows x 143 columns. It contains user data like their roles, active status, and locations.
 
 ## Key Fields For Analysis
 - Industry, Account Name, Account Type, Created Date, and Rating.
