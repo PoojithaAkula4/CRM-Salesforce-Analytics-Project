@@ -4,7 +4,7 @@ CRM analytics software refers to tools that allow businesses to analyze data col
 ![Salesforce Logo](https://github.com/user-attachments/assets/75c7bf0a-598c-4bb4-9280-e5d151ea08be)
 
 ## Introduction
-This project provides a complete end-to-end data analytics workflow for CRM (Salesforce). The goal is to extract valuable business insights using Excel, SQL, Tableau, and Power BI.
+This project provides a complete end-to-end data analytics workflow for the CRM (Salesforce). The goal is to extract valuable business insights, spot problems, and provide solutions using Excel, SQL, Tableau, and Power BI.
 
 ## Project Objectives
 - Export, transform, and load the data (ETL).
@@ -12,6 +12,8 @@ This project provides a complete end-to-end data analytics workflow for CRM (Sal
 - Find the key performance indicators/metrics (KPIs).
 - Perform the exploratory data analysis (EDA).
 - Visualization.
+- Identify the problems.
+- Provide innovative business solutions.
 
 ## Project KPIs To Find
 Opportunities KPIs: 
@@ -123,7 +125,7 @@ Lead:
 - 🧭 Lead Industries: Some industries are significantly contributing more leads whereas others are overly underutilized, indicating more expansion here as well.
 - 🎯 Lead Creation Vs Conversion: Leads created and converted are increasing every year, though more focus is required in the conversion area.
 
-## Conclusion:
+## Conclusion/Solution:
 There is a strong base of leads and opportunities, but the gaps in conversion, pipeline forecasting, and data quality are holding back performance. By improving lead management, marketing, expansion, sales execution, and CRM routine, the organization can:
 
 - Increase win and conversion rates.
