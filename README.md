@@ -69,7 +69,7 @@ Total 5 Datasets:
 - User to opportunity and lead.
 
 ## The Process On Different Software
-- In Excel: Corrected columns data types, replaced certain null values with the term unknown, replaced certain other values accordingly too, added a few columns more, cleaned the datasets off duplicates/blank rows/errors, and merged a few queries on Power Query.
+- In Excel: Analyzed the datasets, corrected columns data types, replaced certain null values with the term unknown, replaced certain other values accordingly too, added a few columns more, cleaned the datasets off duplicates/blank rows/errors, and merged a few queries on Power Query.
 
 ![Project ETL](https://github.com/user-attachments/assets/7225b782-f0c6-4373-909b-5d10fabbdce9)
 
